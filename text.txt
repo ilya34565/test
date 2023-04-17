@@ -1,0 +1,5 @@
+git add . #добавление в фиксации.
+git commit -m "Суровов"
+git init
+git push
+git pull
